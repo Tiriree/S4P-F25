@@ -10,4 +10,19 @@ const links = [
         description: "Student symposium"
     }
 ];
+marquee="Welcome to the class!"
+
+const people = [
+    { name: "Alice Johnson", url: "https://example.com/alice" },
+    { name: "Bob Smith", url: "https://example.com/bob" },
+    { name: "Carol Davis", url: "https://example.com/carol" },
+    { name: "David Wilson", url: "https://example.com/david" },
+    { name: "Eva Brown", url: "https://example.com/eva" },
+    { name: "Frank Miller", url: "https://example.com/frank" },
+    { name: "Grace Lee", url: "https://example.com/grace" },
+    { name: "Henry Taylor", url: "https://example.com/henry" },
+    { name: "Iris Chen", url: "https://example.com/iris" },
+    { name: "Jack Anderson", url: "https://example.com/jack" },
+    { name: "Kate Rodriguez", url: "https://example.com/kate" }
+];
  
