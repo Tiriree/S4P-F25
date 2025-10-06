@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Interactive marquee functionality
     interactiveToggle.addEventListener('click', function(e) {
         e.stopPropagation();
-        marqueeContent.textContent = window.marquee || "Welcome to the class!";
+        marqueeContent.textContent = window.marquee || "Midterm is here!";
         marquee.classList.remove('hidden');
     });
     
