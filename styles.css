@@ -97,6 +97,8 @@ body {
     color: rgb(0,0,255);
     cursor: pointer;
     transition: color 0.2s ease;
+    font-family: 'Creepster', cursive;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
 }
 
 .people:hover {
