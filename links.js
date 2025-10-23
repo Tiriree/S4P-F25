@@ -1,7 +1,8 @@
 const links = [
     {
         title: "Syllabus",
-        url: "https://tiri.notion.site/Software-for-People-Fall-25-25a3700074c680d8ba5df26e4b2e798e?source=copy_link",
+        url: "https://tiri.notion.site/Software-for-People-Fall-25-2923700074c680e4bc05ed8c14c032fb?source=copy_link",
+        // url: "https://tiri.notion.site/Software-for-People-Fall-25-25a3700074c680d8ba5df26e4b2e798e?source=copy_link",
         description: "Course syllabus"
     },
     {
