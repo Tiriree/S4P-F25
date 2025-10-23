@@ -94,7 +94,7 @@ body {
 }
 
 .people {
-    color: rgb(0,0,255);
+    color: rgb(255, 111, 0);
     cursor: pointer;
     transition: color 0.2s ease;
     font-family: 'Creepster', cursive;
