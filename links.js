@@ -11,7 +11,7 @@ const links = [
         description: "Student symposium"
     }
 ];
-marquee="BOO!!!"
+marquee="Hi!!!"
 
 const people = [
     { name: "Alice Johnson", url: "https://example.com/alice" },
